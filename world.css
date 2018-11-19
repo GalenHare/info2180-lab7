@@ -1,0 +1,29 @@
+body{
+    padding: 50px;
+    margin: 40px auto;
+    margin-top: 0px;
+    padding-top: 10px;
+}
+h1{
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: bolder;
+    color: white;
+    background-color: rgb(187, 204, 232);
+    padding: 32px;
+    text-align: left;
+    border-radius: 20px;
+}
+
+#controls{
+    padding: 32px;
+    padding-left: 0;
+    padding-top: 20px;
+    font-family: Verdana,Geneva,sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+     
+}
+
+/*#result{*/
+/*     font-family: Tahoma, Geneva, sans-serif;*/
+/*}*/
